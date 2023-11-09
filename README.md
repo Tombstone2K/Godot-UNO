@@ -19,6 +19,7 @@ Language: GDScript
 
 ## Screenshots
 
+![ss-09](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/dbae405b-d2a6-4835-90bc-94fea7a7f047)
 ![ss-06](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/20af8e3f-ab16-4e38-9b2c-e57226ed3b49)
 ![ss-01](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/71f5e805-5972-445b-bcec-d33c1f121eff)
 ![ss-02](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/56349c58-20bf-4cec-9dea-e1be5a1dce9a)
