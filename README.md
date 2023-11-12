@@ -19,14 +19,17 @@ Language: GDScript
 
 ## Screenshots
 
-![ss-09](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/dbae405b-d2a6-4835-90bc-94fea7a7f047)
-![ss-06](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/20af8e3f-ab16-4e38-9b2c-e57226ed3b49)
-![ss-01](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/71f5e805-5972-445b-bcec-d33c1f121eff)
-![ss-02](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/56349c58-20bf-4cec-9dea-e1be5a1dce9a)
-![ss-03](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/0ca2a07d-aef4-457a-b4bc-f52c9bd40dd4)
-![ss-04](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/3e9ad4ea-c9e5-47f1-9a6b-ca434a1be25d)
-![ss-07](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/7cb0efe2-4796-470c-a5c1-9cfbbac1388e)
-![ss-08](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/67ca6090-5e30-4402-9b0c-0180cef76201)
-![ss-05](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/86e8e2f0-ce57-42e8-a663-c1af6d642e82)
+![ss-09](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/5e9b0ea8-4dd9-466c-86a5-f00f74b487ce)
+![ss-06](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/4b6e0295-5203-481c-842c-1e3b374bbf23)
+![ss-01](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/fd9eef84-a4f2-4b6b-8b30-e6a292978fc6)
+![ss-02](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/99bcf3e3-f439-4327-8bdd-d93f21725d8f)
+![ss-03](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/a30729e1-4cb3-48c7-a9f9-1fd101f43cc1)
+![ss-04](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/e1b08986-bd81-4440-89a3-93317888078d)
+![ss-07](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/b5353a82-db7b-4079-a8f7-9dbc4b8d27a0)
+![ss-08](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/a035ce3c-1c1b-4c29-8593-d6f6f53a0071)
+![ss-05](https://github.com/Tombstone2K/Godot-UNO/assets/74809929/80969e7b-ec68-47d2-9b78-f7bf16badcbc)
+
+
+
 
 
